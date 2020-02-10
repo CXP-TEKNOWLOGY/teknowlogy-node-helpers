@@ -1,5 +1,5 @@
 {
-  "name": "@teknowlogygroup/node-helpers",
+  "name": "teknowlogy-node-helpers",
   "version": "0.0.1",
   "description": "NodeJs helpers functions for teknowlogy group",
   "main": "helpers.js",
